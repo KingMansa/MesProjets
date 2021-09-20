@@ -20,6 +20,7 @@ var maFormation = new Formation("Data Science", 5, [
   maStagiaire2,
 ]);
 
+
 console.log(maFormation);
 console.log(maFormation.calculerMoyenneFormation());
 console.log(maFormation.getIndexMax());
